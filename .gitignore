@@ -52,3 +52,13 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
+# PyCharm Files
+.idea*
+.idea/*
+
+# python compiled files
+*.pyc
+
+# git files
+.git*
+.git/*
